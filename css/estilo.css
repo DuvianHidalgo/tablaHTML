@@ -1,0 +1,35 @@
+table, td, th
+{
+    border:1px solid red;
+}
+td, th
+{
+    padding: 5px;
+}
+table
+{
+    background-color: aliceblue;
+    
+}
+div
+{
+    background-color: aqua;
+    width: 252px;
+    height:200px;
+    padding: 20px;
+}
+.ang
+{
+    color: white;
+    background-color: green;
+}
+.juano
+{
+    color: white;
+    background-color: green;
+}
+.correr
+{
+    color:yellow;
+    background-color: black;
+}
