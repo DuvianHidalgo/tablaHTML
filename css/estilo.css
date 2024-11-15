@@ -5,16 +5,18 @@ table, td, th
 td, th
 {
     padding: 5px;
+    border-radius: 5px;
+    text-align: center;
 }
 table
 {
     background-color: aliceblue;
-    
+    border-spacing: 5px;
 }
 div
 {
     background-color: aqua;
-    width: 252px;
+    width: 260px;
     height:200px;
     padding: 20px;
 }
